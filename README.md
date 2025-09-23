@@ -3,7 +3,7 @@
 ## 1. System Overview
 
 ### 1.1 Purpose
-The AffordMed URL Shortener is a client-side web application that provides URL shortening services with comprehensive validation, security checks, and analytics tracking. The system allows users to create shortened URLs with custom shortcodes and expiration times while maintaining detailed usage statistics.
+The  URL Shortener is a client-side web application that provides URL shortening services with comprehensive validation, security checks, and analytics tracking. The system allows users to create shortened URLs with custom shortcodes and expiration times while maintaining detailed usage statistics.
 
 ### 1.2 Key Features
 - **URL Shortening**: Convert long URLs into short, manageable links
@@ -320,4 +320,5 @@ Dashboard Display → Real-time Updates
 - **Accessibility Enhancement**: Improve accessibility compliance
 
 This system design document provides a comprehensive overview of the AffordMed URL Shortener architecture, covering all major components, data flows, security measures, and future considerations for scalability and enhancement.
+
 
