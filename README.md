@@ -1,4 +1,4 @@
-# AffordMed URL Shortener - System Design Document
+#  URL Shortener - System Design Document
 
 ## 1. System Overview
 
@@ -320,3 +320,4 @@ Dashboard Display → Real-time Updates
 - **Accessibility Enhancement**: Improve accessibility compliance
 
 This system design document provides a comprehensive overview of the AffordMed URL Shortener architecture, covering all major components, data flows, security measures, and future considerations for scalability and enhancement.
+
